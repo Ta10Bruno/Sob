@@ -1,0 +1,13 @@
+@import './geral/global.css';
+@import './utilidades/tipografia.css';
+@import './utilidades/componentes.css';
+@import './geral/header.css';
+@import './geral/introducao.css';
+@import './geral/servicos.css';
+@import './geral/tenoclogia.css';
+@import './geral/porfolio.css';
+@import './geral/planos.css';
+@import './geral/footer.css';
+
+/*Termos*/
+@import './geral/termos.css'
